@@ -1,0 +1,5 @@
+*.exe
+.vscode/
+
+# context not finished yet
+RunningContext/
